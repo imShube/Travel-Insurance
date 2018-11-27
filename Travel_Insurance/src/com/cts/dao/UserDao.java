@@ -119,6 +119,6 @@ public class UserDao {
 				u.setPass(rs.getString("password"));
 			}
 		}catch(Exception e){System.out.println(e);}
-		return u;
+		return u
 	}
 }
