@@ -3,7 +3,6 @@ package com.cts.pojo;
 	import java.sql.Date;
 
 	public class Registration {
-		
 		Integer regid;
 		String firstname;
 		String lastname;
